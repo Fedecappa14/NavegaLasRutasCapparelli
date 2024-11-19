@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Camiseta de Algodón",
+      "category": "ropa",
+      "price": 25000,
+      "description": "Remera Maradona de algodón 100%",
+      "image": "/images/camiseta.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Zapatillas Deportivos",
+      "category": "calzado",
+      "price": 154000,
+      "description": "Zapatillas cómods para correr",
+      "image": "/images/zapatos.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Auriculares Bluetooth",
+      "category": "accesorios",
+      "price": 29999,
+      "description": "Auriculares inalámbricos con micrófono",
+      "image": "/images/auriculares.jpg"
+    }
+  ]
